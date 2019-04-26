@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoSurveillance", "VideoSurveillance\VideoSurveillance.csproj", "{392DC130-CB97-4E5C-B57B-9AECB342940E}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Installer", "Installer\Installer.aiproj", "{08F65704-61AC-4375-A584-2B838CC5C2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392DC130-CB97-4E5C-B57B-9AECB342940E}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{392DC130-CB97-4E5C-B57B-9AECB342940E}.All|Any CPU.Build.0 = Release|Any CPU
+		{392DC130-CB97-4E5C-B57B-9AECB342940E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392DC130-CB97-4E5C-B57B-9AECB342940E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392DC130-CB97-4E5C-B57B-9AECB342940E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392DC130-CB97-4E5C-B57B-9AECB342940E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F65704-61AC-4375-A584-2B838CC5C2B4}.All|Any CPU.ActiveCfg = DefaultBuild
+		{08F65704-61AC-4375-A584-2B838CC5C2B4}.All|Any CPU.Build.0 = DefaultBuild
+		{08F65704-61AC-4375-A584-2B838CC5C2B4}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{08F65704-61AC-4375-A584-2B838CC5C2B4}.Debug|Any CPU.Build.0 = DefaultBuild
+		{08F65704-61AC-4375-A584-2B838CC5C2B4}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{08F65704-61AC-4375-A584-2B838CC5C2B4}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C88CF9-76B7-423B-82B9-CCE5775C546A}
+	EndGlobalSection
+EndGlobal
